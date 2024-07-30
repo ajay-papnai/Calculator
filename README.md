@@ -46,13 +46,15 @@ Input: (3 + 5) * 2
 Output: 16
 ```
 ### Built With
-• EvalEx: A Java Expression Evaluator library used for evaluating mathematical expressions.
+•  [EvalEx](https://github.com/uklimaschewski/EvalEx): A Java Expression Evaluator library used for evaluating mathematical expressions.
 
 ### Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ### Acknowledgments
-Special thanks to uklimaschewski for creating and maintaining the EvalEx library.
+Special thanks to [uklimaschewski](https://github.com/uklimaschewski) for creating and maintaining the EvalEx library.
+
